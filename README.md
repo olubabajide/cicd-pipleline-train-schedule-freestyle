@@ -14,4 +14,10 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
+<<<<<<< HEAD
 For testing purposes
+=======
+For testing purposes
+
+
+>>>>>>> d6e34d0da68d782159bd53f2f53200397f028433
