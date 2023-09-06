@@ -60,7 +60,7 @@
 			"stops": [
 				{
 					"station": "Cypress",
-					"status": "ON-TIME",
+					"status": "ON-TIMEE",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
